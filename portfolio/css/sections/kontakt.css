@@ -1,0 +1,3 @@
+/* Kontakt */
+.contact p { margin: 0 0 1.25rem; max-width: 36rem; }
+.contact ul { list-style: none; margin: 0; padding: 0; display: flex; gap: 2rem; flex-wrap: wrap; }
