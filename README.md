@@ -2,7 +2,9 @@
 
 My personal portfolio website, where I present my university and hardware projects in embedded systems, digital technology and machine learning.
 
-![Screenshot of the portfolio homepage](assets/hero/Portfolio_oberfl%C3%A4che.png)
+🌐 **Live website:** [abrojered.github.io](https://abrojered.github.io/)
+
+[![Screenshot of the portfolio homepage](assets/hero/Portfolio_oberfl%C3%A4che.png)](https://abrojered.github.io/)
 
 ## Features
 
